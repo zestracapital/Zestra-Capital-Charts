@@ -1,2 +1,0 @@
-# Zestra-Capital-Charts
-
